@@ -21,4 +21,7 @@ Sistema desarrollado en PHP para gestionar productos, ventas, inventario y repor
 
 ## 🖼️ Captura de pantalla
 
-![Vista de productos](https://github.com/CrabTeuton/Restaurant_Software/blob/main/screenshots/Caja_Venta.png)
+![Caja_venta](https://github.com/CrabTeuton/Restaurant_Software/blob/main/screenshots/Caja_Venta.png)
+![Entrada_insumos](https://github.com/CrabTeuton/Restaurant_Software/blob/main/screenshots/Entrada_Insumos.png)
+![Muestra_tickets](https://github.com/CrabTeuton/Restaurant_Software/blob/main/screenshots/Muestra_Ticket.png)
+![ventas](https://github.com/CrabTeuton/Restaurant_Software/blob/main/screenshots/ventas.png)
