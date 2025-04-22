@@ -1,4 +1,4 @@
-# 🛒 Sistema para restaurante en PHP
+# 🛒 Software para restaurante
 
 Sistema desarrollado en PHP para gestionar productos, ventas, inventario y reportes desde una interfaz administrativa clara y fácil de usar. Ideal para pequeñas y medianas empresas.
 
